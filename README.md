@@ -1,4 +1,4 @@
-# dsc80finalproject
+# CBLOL Action Analysis and First Baron Predictor
 Project for DSC80: Practice and Application of Data Science at UCSD.
 
 Includes:
